@@ -1,1 +1,3 @@
-thanks for reading me
+thanks for reading me.
+
+Have a nice day.
